@@ -61,13 +61,13 @@ margin-left: 10px;
   color: #434A54;
   margin-bottom: 40px;
 }
-.chat-bottom-content{
+.form{
   height: 90px;
   background-color: #DDDDDD;
   padding: 20px 40px;
   display: flex;
 }
-.text-box{
+.form-input{
   background-color: white;
   display: flex;
   width: 100%;
