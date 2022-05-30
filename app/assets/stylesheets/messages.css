@@ -36,7 +36,7 @@
 .message{
 margin-left: 10px;
 }
-.upper_message {
+.upper-message {
   overflow: scroll;
   display: flex;
 }
